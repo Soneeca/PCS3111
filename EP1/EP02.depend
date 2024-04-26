@@ -1,0 +1,908 @@
+# depslib dependency file v1.0
+1637270928 source:c:\users\soneca\desktop\ep02\main.cpp
+
+1637856721 source:c:\users\soneca\desktop\ep02\datagrama.cpp
+	"Datagrama.h"
+	<iostream>
+
+1637523958 c:\users\soneca\desktop\ep02\datagrama.h
+	"Segmento.h"
+	<string>
+
+1637523940 c:\users\soneca\desktop\ep02\segmento.h
+	<string>
+
+1637856877 source:c:\users\soneca\desktop\ep02\fila.cpp
+	<iostream>
+	"Fila.h"
+
+1637196296 c:\users\soneca\desktop\ep02\fila.h
+	"Datagrama.h"
+	<iostream>
+
+1637272294 source:c:\users\soneca\desktop\ep02\evento.cpp
+	"No.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1637857036 c:\users\soneca\desktop\ep02\no.h
+	"FilaComPrioridade.h"
+	"Evento.h"
+	<string>
+
+1637523918 c:\users\soneca\desktop\ep02\filacomprioridade.h
+	"Fila.h"
+	<string>
+
+1637857042 c:\users\soneca\desktop\ep02\evento.h
+	"No.h"
+	"Datagrama.h"
+	<iostream>
+	<string>
+
+1637526898 source:c:\users\soneca\desktop\ep02\no.cpp
+	"No.h"
+	<iostream>
+
+1637857160 source:c:\users\soneca\desktop\ep02\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+	<iostream>
+
+1637857187 source:c:\users\soneca\desktop\ep02\segmento.cpp
+	"Segmento.h"
+	<iostream>
+
+1637857336 source:c:\users\soneca\desktop\ep02\roteador.cpp
+	"Roteador.h"
+	<iostream>
+	<string>
+
+1637532582 c:\users\soneca\desktop\ep02\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1637272136 c:\users\soneca\desktop\ep02\tabeladerepasse.h
+	"No.h"
+	<string>
+
+1637857349 source:c:\users\soneca\desktop\ep02\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+	"No.h"
+	<iostream>
+	<string>
+
+1637874413 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\datagrama.cpp
+	"Datagrama.h"
+	<iostream>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\datagrama.h
+	"Segmento.h"
+	<string>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\segmento.h
+	<string>
+
+1637874413 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\evento.cpp
+	"No.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\no.h
+	"FilaComPrioridade.h"
+	"Evento.h"
+	<string>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\filacomprioridade.h
+	"Fila.h"
+	<string>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\fila.h
+	"Datagrama.h"
+	<iostream>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\evento.h
+	"No.h"
+	"Datagrama.h"
+	<iostream>
+	<string>
+
+1637874413 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\fila.cpp
+	<iostream>
+	"Fila.h"
+
+1637874413 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+	<iostream>
+
+1638742171 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\main.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	"No.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	"Hospedeiro.h"
+	"Chat.h"
+	"Rede.h"
+	"Agendador.h"
+	"PersistenciaDeRede.h"
+	<iostream>
+	<string>
+	<list>
+	<vector>
+
+1637874413 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\no.cpp
+	"No.h"
+	<iostream>
+
+1638730526 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\roteador.cpp
+	"Roteador.h"
+	<iostream>
+	<string>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\tabeladerepasse.h
+	"No.h"
+	<string>
+
+1637874413 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\segmento.cpp
+	"Segmento.h"
+	<iostream>
+
+1637874413 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+	"No.h"
+	<iostream>
+	<string>
+
+1638580781 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+	<iostream>
+	<string>
+	<vector>
+
+1637874413 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\roteadorcomqos.h
+	"Roteador.h"
+	"Datagrama.h"
+	"FilaComPrioridade.h"
+	"Fila.h"
+	<iostream>
+	<string>
+	<vector>
+
+1638631200 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\hospedeiro.cpp
+	"Hospedeiro.h"
+	<iostream>
+
+1638631056 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\hospedeiro.h
+	"No.h"
+	"Chat.h"
+	"Roteador.h"
+	<vector>
+	<string>
+
+1638631316 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\chat.h
+	"No.h"
+	"Hospedeiro.h"
+	"Datagrama.h"
+	"Segmento.h"
+	<string>
+
+1638637026 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\chat.cpp
+	"Chat.h"
+	<iostream>
+
+1638639272 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\rede.cpp
+	"Rede.h"
+	<iostream>
+
+1638730526 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\rede.h
+	"RoteadorComQoS.h"
+	"No.h"
+	"Roteador.h"
+	"Hospedeiro.h"
+	<string>
+	<list>
+
+1638730526 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\agendador.cpp
+	"Agendador.h"
+	<iostream>
+	<string>
+	<list>
+
+1638725364 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\agendador.h
+	"No.h"
+	"Rede.h"
+	"Roteador.h"
+	"Evento.h"
+	"Datagrama.h"
+
+1638738372 source:c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\persistenciaderede.cpp
+	"PersistenciaDeRede.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1638735511 c:\users\mateu\onedrive\햞ea de trabalho\pcs3111 - ep02\ep02\persistenciaderede.h
+	"Rede.h"
+	<fstream>
+
+1638730528 source:c:\users\soneca\desktop\ep2\ep02\agendador.cpp
+	"Agendador.h"
+	<iostream>
+	<string>
+	<list>
+
+1638725366 c:\users\soneca\desktop\ep2\ep02\agendador.h
+	"No.h"
+	"Rede.h"
+	"Roteador.h"
+	"Evento.h"
+	"Datagrama.h"
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\no.h
+	"FilaComPrioridade.h"
+	"Evento.h"
+	<string>
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\filacomprioridade.h
+	"Fila.h"
+	<string>
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\fila.h
+	"Datagrama.h"
+	<iostream>
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\datagrama.h
+	"Segmento.h"
+	<string>
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\segmento.h
+	<string>
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\evento.h
+	"No.h"
+	"Datagrama.h"
+	<iostream>
+	<string>
+
+1638730528 c:\users\soneca\desktop\ep2\ep02\rede.h
+	"RoteadorComQoS.h"
+	"No.h"
+	"Roteador.h"
+	"Hospedeiro.h"
+	<string>
+	<list>
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\roteadorcomqos.h
+	"Roteador.h"
+	"Datagrama.h"
+	"FilaComPrioridade.h"
+	"Fila.h"
+	<iostream>
+	<string>
+	<vector>
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1637874414 c:\users\soneca\desktop\ep2\ep02\tabeladerepasse.h
+	"No.h"
+	<string>
+
+1638631058 c:\users\soneca\desktop\ep2\ep02\hospedeiro.h
+	"No.h"
+	"Chat.h"
+	"Roteador.h"
+	<vector>
+	<string>
+
+1638631318 c:\users\soneca\desktop\ep2\ep02\chat.h
+	"No.h"
+	"Hospedeiro.h"
+	"Datagrama.h"
+	"Segmento.h"
+	<string>
+
+1638637028 source:c:\users\soneca\desktop\ep2\ep02\chat.cpp
+	"Chat.h"
+	<iostream>
+
+1637874414 source:c:\users\soneca\desktop\ep2\ep02\datagrama.cpp
+	"Datagrama.h"
+	<iostream>
+
+1637874414 source:c:\users\soneca\desktop\ep2\ep02\evento.cpp
+	"No.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1637874414 source:c:\users\soneca\desktop\ep2\ep02\fila.cpp
+	<iostream>
+	"Fila.h"
+
+1637874414 source:c:\users\soneca\desktop\ep2\ep02\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+	<iostream>
+
+1638631202 source:c:\users\soneca\desktop\ep2\ep02\hospedeiro.cpp
+	"Hospedeiro.h"
+	<iostream>
+
+1637874414 source:c:\users\soneca\desktop\ep2\ep02\no.cpp
+	"No.h"
+	<iostream>
+
+1638743544 source:c:\users\soneca\desktop\ep2\ep02\rede.cpp
+	"Rede.h"
+	<iostream>
+
+1638730528 source:c:\users\soneca\desktop\ep2\ep02\roteador.cpp
+	"Roteador.h"
+	<iostream>
+	<string>
+
+1638580782 source:c:\users\soneca\desktop\ep2\ep02\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+	<iostream>
+	<string>
+	<vector>
+
+1637874414 source:c:\users\soneca\desktop\ep2\ep02\segmento.cpp
+	"Segmento.h"
+	<iostream>
+
+1637874414 source:c:\users\soneca\desktop\ep2\ep02\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+	"No.h"
+	<iostream>
+	<string>
+
+1638742602 source:c:\users\soneca\desktop\ep2\ep02\main.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	"No.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	"Hospedeiro.h"
+	"Chat.h"
+	"Rede.h"
+	"Agendador.h"
+	"PersistenciaDeRede.h"
+	<iostream>
+	<string>
+	<list>
+	<vector>
+
+1638735512 c:\users\soneca\desktop\ep2\ep02\persistenciaderede.h
+	"Rede.h"
+	<fstream>
+
+1638743978 source:c:\users\soneca\desktop\ep2\ep02\persistenciaderede.cpp
+	"PersistenciaDeRede.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\chat.cpp
+	"Chat.h"
+	<iostream>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\chat.h
+	"No.h"
+	"Hospedeiro.h"
+	"Datagrama.h"
+	"Segmento.h"
+	<string>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\no.h
+	"FilaComPrioridade.h"
+	"Evento.h"
+	<string>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\filacomprioridade.h
+	"Fila.h"
+	<string>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\fila.h
+	"Datagrama.h"
+	<iostream>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\datagrama.h
+	"Segmento.h"
+	<string>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\segmento.h
+	<string>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\evento.h
+	"No.h"
+	"Datagrama.h"
+	<iostream>
+	<string>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\hospedeiro.h
+	"No.h"
+	"Chat.h"
+	"Roteador.h"
+	<vector>
+	<string>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1638829709 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\tabeladerepasse.h
+	"No.h"
+	<string>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\datagrama.cpp
+	"Datagrama.h"
+	<iostream>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\evento.cpp
+	"No.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\fila.cpp
+	<iostream>
+	"Fila.h"
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+	<iostream>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\hospedeiro.cpp
+	"Hospedeiro.h"
+	<iostream>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\no.cpp
+	"No.h"
+	<iostream>
+
+1638830094 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\persistenciaderede.cpp
+	"PersistenciaDeRede.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\persistenciaderede.h
+	"Rede.h"
+	<fstream>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\rede.h
+	"RoteadorComQoS.h"
+	"No.h"
+	"Roteador.h"
+	"Hospedeiro.h"
+	<string>
+	<list>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\roteadorcomqos.h
+	"Roteador.h"
+	"Datagrama.h"
+	"FilaComPrioridade.h"
+	"Fila.h"
+	<iostream>
+	<string>
+	<vector>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\roteador.cpp
+	"Roteador.h"
+	<iostream>
+	<string>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+	<iostream>
+	<string>
+	<vector>
+
+1638829708 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\segmento.cpp
+	"Segmento.h"
+	<iostream>
+
+1638829709 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+	"No.h"
+	<iostream>
+	<string>
+
+1638829992 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\agendador.cpp
+	"Agendador.h"
+	<iostream>
+	<string>
+	<list>
+
+1638829708 c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\agendador.h
+	"No.h"
+	"Rede.h"
+	"Roteador.h"
+	"Evento.h"
+	"Datagrama.h"
+
+1638833614 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\main.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	"No.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	"Hospedeiro.h"
+	"Chat.h"
+	"Rede.h"
+	"Agendador.h"
+	"PersistenciaDeRede.h"
+	<iostream>
+	<string>
+	<list>
+	<vector>
+
+1638830094 source:c:\users\mateu\onedrive\햞ea de trabalho\ep02\ep02\rede.cpp
+	"Rede.h"
+	<iostream>
+
+1638829994 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\agendador.cpp
+	"Agendador.h"
+	<iostream>
+	<string>
+	<list>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\agendador.h
+	"No.h"
+	"Rede.h"
+	"Roteador.h"
+	"Evento.h"
+	"Datagrama.h"
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\no.h
+	"FilaComPrioridade.h"
+	"Evento.h"
+	<string>
+
+1638884279 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\filacomprioridade.h
+	"Fila.h"
+	<string>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\fila.h
+	"Datagrama.h"
+	<iostream>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\datagrama.h
+	"Segmento.h"
+	<string>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\segmento.h
+	<string>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\evento.h
+	"No.h"
+	"Datagrama.h"
+	<iostream>
+	<string>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\rede.h
+	"RoteadorComQoS.h"
+	"No.h"
+	"Roteador.h"
+	"Hospedeiro.h"
+	<string>
+	<list>
+
+1638882664 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\roteadorcomqos.h
+	"Roteador.h"
+	"Datagrama.h"
+	"FilaComPrioridade.h"
+	"Fila.h"
+	<iostream>
+	<string>
+	<vector>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\tabeladerepasse.h
+	"No.h"
+	<string>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\hospedeiro.h
+	"No.h"
+	"Chat.h"
+	"Roteador.h"
+	<vector>
+	<string>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\chat.h
+	"No.h"
+	"Hospedeiro.h"
+	"Datagrama.h"
+	"Segmento.h"
+	<string>
+
+1638883597 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\datagrama.cpp
+	"Datagrama.h"
+	<iostream>
+
+1638829710 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\evento.cpp
+	"No.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1638883854 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\fila.cpp
+	<iostream>
+	"Fila.h"
+
+1638881022 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+	<iostream>
+
+1638829710 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\hospedeiro.cpp
+	"Hospedeiro.h"
+	<iostream>
+
+1638894021 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\main.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	"No.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	"Hospedeiro.h"
+	"Chat.h"
+	"Rede.h"
+	"Agendador.h"
+	"PersistenciaDeRede.h"
+	<iostream>
+	<string>
+	<list>
+	<vector>
+
+1638829710 c:\users\soneca\desktop\ep 2 certo\ep02\ep02\persistenciaderede.h
+	"Rede.h"
+	<fstream>
+
+1638879339 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\no.cpp
+	"No.h"
+	<iostream>
+
+1638830096 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\persistenciaderede.cpp
+	"PersistenciaDeRede.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1638830096 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\rede.cpp
+	"Rede.h"
+	<iostream>
+
+1638881410 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\roteador.cpp
+	"Roteador.h"
+	<iostream>
+	<string>
+
+1638882664 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+	<iostream>
+	<string>
+	<vector>
+
+1638829710 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\segmento.cpp
+	"Segmento.h"
+	<iostream>
+
+1638829710 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+	"No.h"
+	<iostream>
+	<string>
+
+1638878938 source:c:\users\soneca\desktop\ep 2 certo\ep02\ep02\chat.cpp
+	"Chat.h"
+	<iostream>
+
+1638894946 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\chat.cpp
+	"Chat.h"
+	<iostream>
+
+1638894946 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\chat.h
+	"No.h"
+	"Hospedeiro.h"
+	"Datagrama.h"
+	"Segmento.h"
+	<string>
+
+1638894947 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\no.h
+	"FilaComPrioridade.h"
+	"Evento.h"
+	<string>
+
+1638894946 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\filacomprioridade.h
+	"Fila.h"
+	<string>
+
+1638894946 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\fila.h
+	"Datagrama.h"
+	<iostream>
+
+1638894946 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\datagrama.h
+	"Segmento.h"
+	<string>
+
+1638894947 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\segmento.h
+	<string>
+
+1638894946 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\evento.h
+	"No.h"
+	"Datagrama.h"
+	<iostream>
+	<string>
+
+1638894947 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\hospedeiro.h
+	"No.h"
+	"Chat.h"
+	"Roteador.h"
+	<vector>
+	<string>
+
+1638897050 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1638894947 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\tabeladerepasse.h
+	"No.h"
+	<string>
+
+1638894946 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\evento.cpp
+	"No.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1638894946 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\fila.cpp
+	<iostream>
+	"Fila.h"
+
+1638894946 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+	<iostream>
+
+1638894946 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\hospedeiro.cpp
+	"Hospedeiro.h"
+	<iostream>
+
+1638896658 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\main.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	"No.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	"Hospedeiro.h"
+	"Chat.h"
+	"Rede.h"
+	"Agendador.h"
+	"PersistenciaDeRede.h"
+	<iostream>
+	<string>
+	<list>
+	<vector>
+
+1638894947 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\roteadorcomqos.h
+	"Roteador.h"
+	"Datagrama.h"
+	"FilaComPrioridade.h"
+	"Fila.h"
+	<iostream>
+	<string>
+	<vector>
+
+1638894947 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\rede.h
+	"RoteadorComQoS.h"
+	"No.h"
+	"Roteador.h"
+	"Hospedeiro.h"
+	<string>
+	<list>
+
+1638896723 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\agendador.h
+	"No.h"
+	"Rede.h"
+	"Roteador.h"
+	"Hospedeiro.h"
+	"Evento.h"
+	"Datagrama.h"
+
+1638894947 c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\persistenciaderede.h
+	"Rede.h"
+	<fstream>
+
+1638894947 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\no.cpp
+	"No.h"
+	<iostream>
+
+1638897058 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\persistenciaderede.cpp
+	"PersistenciaDeRede.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1638896658 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\rede.cpp
+	"Rede.h"
+	<iostream>
+
+1638894947 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+	<iostream>
+	<string>
+	<vector>
+
+1638894947 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\segmento.cpp
+	"Segmento.h"
+	<iostream>
+
+1638894947 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+	"No.h"
+	<iostream>
+	<string>
+
+1638896787 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\agendador.cpp
+	"Agendador.h"
+	<iostream>
+	<string>
+	<list>
+
+1638895943 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\datagrama.cpp
+	"Datagrama.h"
+	<iostream>
+
+1638897050 source:c:\users\mateu\onedrive\햞ea de trabalho\zipdotesao\roteador.cpp
+	"Roteador.h"
+	<iostream>
+	<string>
+
